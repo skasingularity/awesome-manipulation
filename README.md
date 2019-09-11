@@ -17,6 +17,7 @@
 - [For Whom the Bell Trolls: Troll Behaviour in the Twitter Brexit Debate](https://arxiv.org/pdf/1801.08754.pdf)
 - [Propaganda, Fake News, and Fake Trends: The Weaponization of Twitter Bots in the Gulf Crisis](https://ijoc.org/index.php/ijoc/article/view/8994)
 - [Supervised Machine Learning Bot Detection Techniques to Identify Social Twitter Bots](https://scholar.smu.edu/cgi/viewcontent.cgi?article=1019&context=datasciencereview)
+- [Classification of Twitter Accounts into Automated Agents and Human Users](https://www.semanticscholar.org/paper/Classification-of-Twitter-Accounts-into-Automated-Gilani-Kochmar/c838232b6a45a59ec71d7a3a0ceaec4bf2fc29e1?citingPapersSort=is-influential#citing-papers)
 
 ## Articles
 

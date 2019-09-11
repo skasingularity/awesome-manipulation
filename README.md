@@ -49,6 +49,7 @@
 
 ## Tools
 
+- [Bot Check Me](http://botcheck.me/)
 - [Botometer](https://botometer.iuni.iu.edu/#!/)
 - [Botsentinel](https://botsentinel.com/)
 - [Hoaxy](https://hoaxy.iuni.iu.edu/)

@@ -35,6 +35,7 @@
 - [An Analysis of Propaganda Bots on Twitter](https://medium.com/@robhat/an-analysis-of-propaganda-bots-on-twitter-7b7ec57256ae)
 - [Cyber Self Defense](https://medium.com/@millenialprimal/cyber-self-defense-93f01023c8cc)
 - [Who Amplified Q?](https://slate.com/technology/2018/09/bots-have-been-boosting-qanon-since-almost-the-moment-it-started.html)
+- [How China Unleashed Twitter Trolls to Discredit Hong Kong’s Protesters](https://www.nytimes.com/interactive/2019/09/18/world/asia/hk-twitter.html)
 
 ## Datasets
 

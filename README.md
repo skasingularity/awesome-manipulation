@@ -38,6 +38,7 @@
 - [How China Unleashed Twitter Trolls to Discredit Hong Kong’s Protesters](https://www.nytimes.com/interactive/2019/09/18/world/asia/hk-twitter.html)
 - [Disclosing new data to our archive of information operations](https://blog.twitter.com/en_us/topics/company/2019/info-ops-disclosure-data-september-2019.html)
 - [Twitter Analysis: Identifying A Pro-Indonesian Propaganda Bot Network](https://www.bellingcat.com/news/2019/09/03/twitter-analysis-identifying-a-pro-indonesian-propaganda-bot-network/)
+- [Close Election in Kentucky Was Ripe for Twitter, and an Omen for 2020](https://www.msn.com/en-us/news/newselection2020/close-election-in-kentucky-was-ripe-for-twitter-and-an-omen-for-2020/ar-BBWyujk)
 
 ## Datasets
 

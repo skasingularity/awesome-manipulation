@@ -64,6 +64,7 @@
 - [Manipulating the YouTube Algorithm - (Part 1/3) Smarter Every Day 213](https://www.youtube.com/watch?v=1PGm8LslEb4)
 - [Who is Manipulating Twitter? - Smarter Every Day 214](https://www.youtube.com/watch?v=V-1RhQ1uuQ4)
 - [Who is Manipulating Facebook? - Smarter Every Day 215](https://www.youtube.com/watch?v=FY_NtO7SIrY)
+- [Operation Inflektion: Russian Disinformation from Cold War to Kanye](https://www.nytimes.com/2018/11/12/opinion/russia-meddling-disinformation-fake-news-elections.html)
 
 ## License
 
